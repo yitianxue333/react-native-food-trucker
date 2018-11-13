@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\Work\\React\\foodtruck-app\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher_round.png",
+        "source": "E:\\Work\\React\\foodtruck-app\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Work\\React\\foodtruck-app\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "E:\\Work\\React\\foodtruck-app\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    }
+]

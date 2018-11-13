@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\Work\React\foodtruck-app\node_modules\react-native-maps\lib\android\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f3cab5534142d3bae5542190950deeddc9898abd">
+        <dex dex="E:\Work\React\foodtruck-app\android\app\build\intermediates\pre-dexed\debug\classes_c5f5f8477043f0f4c106353514f24f927dc91b94.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.android\build-cache\c14e4884157bcc4d5f6762d92e9989434c128b8c\output\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="E:\Work\React\foodtruck-app\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_3e19303cd6edd4714da66b76b26f63d5e13ceb18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.android\build-cache\1aefff2c9346ff1b8d964440b788ee7cba3e222a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="e41a052c714bf67f743c22ed74153422ad773f88">
+        <dex dex="E:\Work\React\foodtruck-app\android\app\build\intermediates\pre-dexed\debug\classes_cd8ac63dbc74ebefa9b25caa549420dfb7a40c01.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.android\build-cache\0e27b2f4b52320a2ba81277d793a44a2920bcaf0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="9ed08fab37c3a572da1d9ed2bf2e36c8d3e2bc48">
+        <dex dex="E:\Work\React\foodtruck-app\android\app\build\intermediates\pre-dexed\debug\classes_39a56ba71f53a4c9a01bda786cc7a211492dd988.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Work\React\foodtruck-app\node_modules\react-native-vector-icons\android\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f2cf527de8d0bd35d72088fafea02395ba4a9eec">
+        <dex dex="E:\Work\React\foodtruck-app\android\app\build\intermediates\pre-dexed\debug\classes_2d60dedd9994d85a46b4214f58aace672bb75cf6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.android\build-cache\c14e4884157bcc4d5f6762d92e9989434c128b8c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="e31331bdf6b5952badadbfc171f04b95c55d3b16">
+        <dex dex="E:\Work\React\foodtruck-app\android\app\build\intermediates\pre-dexed\debug\classes_0e886f0c95681583bdf34efee11e669e679133db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.android\build-cache\e4cb02e466156538632d31973aca65c1f0f48193\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="6d0d5e86f5b7203834df01ed78ebfdd5cbf74d48">
+        <dex dex="E:\Work\React\foodtruck-app\android\app\build\intermediates\pre-dexed\debug\classes_cf26455e29ab4c5c2a0f257f1941d7e064a4b960.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.android\build-cache\ed8515232d6a65ec345f62dbb81e36f50ff919a7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="5803db663655ef5cb38c6bcb17ba326fdb9edfbd">
+        <dex dex="E:\Work\React\foodtruck-app\android\app\build\intermediates\pre-dexed\debug\classes_f9207d05b7cb8872723b5a0f8e4f3752a0cba741.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.android\build-cache\1929e460fa8a81ece0224e0f67f425929467a02a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="dd1d0d84da2cff18f741c63a9c3af7d9aa89fdd6">
+        <dex dex="E:\Work\React\foodtruck-app\android\app\build\intermediates\pre-dexed\debug\classes_dc00abab763b997b567cba5cfd18b16476c9a403.jar" />
+    </item>
+
+</items>
